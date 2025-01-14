@@ -1,1 +1,13 @@
 whyour/qinglong
+jeessy/ddns-go
+mysql
+nginx
+postgres
+python
+node
+httpd
+mariadb
+debian
+ubuntu
+centos
+php
